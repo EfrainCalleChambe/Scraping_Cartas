@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Variables de entorno y configuracion local
+.env
+.env.*
+*.local
+
+# Salidas generadas
+cartas_montemar_columnas/
+analisis_cartas_excel/
+*.xlsx
+*.xls
+
+# Archivos comprimidos y temporales
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+*.tmp
+*.log
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

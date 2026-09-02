@@ -1,0 +1,12 @@
+COMPARACIÓN ORIGINAL VS MODERNO
+
+Carpeta original:
+C:\Users\dnce72\Documents\FRAYO\Scraping\montemar_transcripciones\txt_por_pagina
+
+Carpeta moderna:
+C:\Users\dnce72\Documents\FRAYO\Scraping\montemar_moderno_chatgpt_todos_lotes_hibrido\txt_moderno_por_pagina
+
+Salida:
+analisis_comparacion_montemar
+
+No se generan CSV.

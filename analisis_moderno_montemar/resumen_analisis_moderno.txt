@@ -1,0 +1,17 @@
+ANÁLISIS SOLO DE LA VERSIÓN MODERNA / NORMALIZADA
+
+Carpeta moderna analizada:
+C:\Users\dnce72\Documents\FRAYO\Scraping\montemar_moderno_chatgpt_todos_lotes_hibrido\txt_moderno_por_pagina
+
+Salida:
+analisis_moderno_montemar
+
+No se generan CSV.
+
+Incluye:
+- Excel de análisis moderno.
+- Reemplazos original → moderno en Excel.
+- Redes de asociaciones.
+- Red de reemplazos.
+- Nubes de palabras.
+- Gráficos.
